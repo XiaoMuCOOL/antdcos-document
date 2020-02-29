@@ -7,7 +7,7 @@ sidebarDepth: 0
 
 <a-alert type="info" showIcon>
   <span slot="message">
-    目前 <img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-antdocs?style=flat-square"> 为公测版，已开启 建议/BUG 反馈绿色通道：<a href="https://wj.qq.com/s2/5534754/fcad/" target="_blank">点我反馈</a>
+    目前 <img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-antdocs?style=flat-square"> 为公测版，已开启 建议/BUG 反馈绿色通道：<a href="https://wj.qq.com/s2/5534754/fcad/" target="_blank">点我反馈</a>  |  QQ交流群：867711329
   </span>
  </a-alert>
 

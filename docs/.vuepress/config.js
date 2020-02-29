@@ -6,7 +6,9 @@ module.exports = {
   description: '一款 Ant Design 设计风格的 VuePress 主题',
   base: '/',
   head: [
-    ['link', { rel: 'icon', href: '/assets/logo.png' }]
+    ['link', { rel: 'icon', href: '/assets/logo.png' }],
+    ['meta', { name: 'referrer', content: 'never' }],
+    ['meta', { name: 'keywords', content: 'antdocs,antdeisgn,vuepress,vuepress-theme,theme,ant,docs,antd,antdocs of vuepress,主题,vuepress主题,antd设计,blog,vuepress-blog' }]
   ],
   markdown: {
     lineNumbers: false
@@ -17,7 +19,7 @@ module.exports = {
     nav: require('./config/nav'),
     sidebar: require('./config/sidebar'),
     sidebarDepth: 3,
-    lastUpdated: 'Last Updated',
+    lastUpdated: '上次更新',
     repo: 'https://github.com/zpfz/vuepress-theme-antdocs',
     editLinks: false
   }
