@@ -12,7 +12,7 @@ features:
   details: 新增底部栏目设置，优化行内代码、代码块以及其他各种显示效果和动画，真正实现风格迁移。
 footerColumn: 4
 footerWrap: 
-- headline: 相关资源
+- headline: 生态系统
   items:
   - title: AntDocs
     link: https://github.com/zpfz/vuepress-theme-antdocs

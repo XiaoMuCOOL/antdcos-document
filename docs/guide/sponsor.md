@@ -3,8 +3,8 @@ title: 支持我们
 sidebarDepth: 0
 ---
 
-# 赞助 AntDocs of VuePress 的维护
-vuepress-theme-antdocs 是采用 MIT 许可的开源项目，使用完全免费。 但为了项目能够健康持续的发展下去，我们期望获得相应的资金支持。 你可以通过下列的方法来赞助我们的维护。
+# 赞助 AntDocs of VuePress 的研发
+vuepress-theme-antdocs 是采用 MIT 许可的开源项目，使用完全免费。 但为了项目能够健康持续的发展下去，我们期望获得相应的资金支持。 你可以通过下列的方法来赞助我们的开发。
 
 ## 一次性赞助
 
