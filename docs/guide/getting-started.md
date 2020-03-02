@@ -33,7 +33,7 @@ module.exports = {
 
 配置完毕后，你就可以直接 `yarn run docs:dev` 或 `npm run docs:dev` 查看效果。
 
-<a-alert type="warning">
+<a-alert type="warning" showIcon>
   <span slot="message">
     运行前请确认你的项目已安装 VuePress 依赖，而不是直接使用全局 VuePress 依赖。（作者曾因为直接使用全局 VuePress 依赖，导致 back-to-top 插件无法正常显示，然后项目单独安装 VuePress 依赖后才得以解决。）
   </span>
