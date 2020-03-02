@@ -43,13 +43,6 @@ AntDocs 是一款由 VuePress 驱动并具有 Ant Design 设计风格的主题�
 
 - 公测版：<a href="https://www.npmjs.com/package/vuepress-theme-antdocs" target="_blank" style="vertical-align: bottom;"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-antdocs?style=flat-square"></a>
 
-
-<a-alert type="info">
-  <span slot="message">
-    为了区分 0.x 版本和未来的 1.x 版本，暂定 0.x 版本为公测版本，待收集各种建议以及完善基础功能（不影响使用的情况下）后会以 1.x 正式版本进行发布，其间与 0.x 版本的功能可能相差不是很大。
-  </span>
-</a-alert>
-
 <p></p>
 
 ## 如何贡献

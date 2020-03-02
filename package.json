@@ -28,9 +28,9 @@
   "homepage": "https://antdocs.seeyoz.cn/",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.3.1"
+    "vuepress": "^1.1.0"
   },
   "dependencies": {
-    "vuepress-theme-antdocs": "0.0.10-alpha"
+    "vuepress-theme-antdocs": "0.1.0-beta"
   }
 }
