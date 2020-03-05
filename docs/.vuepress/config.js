@@ -7,6 +7,10 @@ module.exports = {
   base: '/',
   head: [
     ['link', { rel: 'icon', href: '/assets/logo.png' }],
+    // ['link', { rel: 'stylesheet', href: '/css/ad.css' }],
+    ['script', { type: 'text/javascript', src: '/js/push.js' }],
+    // ['script', { type: 'text/javascript', src: '/js/ad.js' }],
+
     ['meta', { name: 'referrer', content: 'never' }],
     ['meta', { name: 'keywords', content: 'antdocs,antdeisgn,vuepress,vuepress-theme,theme,ant,docs,antd,antdocs of vuepress,主题,vuepress主题,antd设计,blog,vuepress-blog' }]
   ],

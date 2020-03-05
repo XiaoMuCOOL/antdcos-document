@@ -43,9 +43,9 @@ AntDocs 支持一定程度的样式定制，以满足文档多样化的视觉需
 @accentColor: #1890ff; 
 ```
 
-<a-alert type="warning">
+<a-alert type="warning" showIcon>
   <span slot="message">
-    你只能在这个文件中定义变量。因为 palette.less 将在根的 Less 配置文件的末尾引入，作为配置，它将被多个文件使用，所以请不要在此文件内编写样式！
+    你只能在这个文件中定义变量。因为 palette.less 将在根的 Less 配置文件的末尾引入，作为配置，它将被多个文件使用，所以一旦你在这里写了样式，你的样式就会被多次复制。
   </span>
 </a-alert>
 
@@ -57,7 +57,7 @@ AntDocs 支持一定程度的样式定制，以满足文档多样化的视觉需
 }
 ```
 
-## 使用CSS
+### 使用CSS
 如果你还想使用 css 样式文件，我们推荐你使用头部注入 css 样式的方法，在 `.vuepress/config.js` 的 head 字段里配置好 css 的引用，比如：
 ```js
 module.exports = {

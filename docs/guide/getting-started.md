@@ -35,7 +35,7 @@ module.exports = {
 
 <a-alert type="warning" showIcon>
   <span slot="message">
-    运行前请确认你的项目已安装 VuePress 依赖，而不是直接使用全局 VuePress 依赖。（作者曾因为直接使用全局 VuePress 依赖，导致 back-to-top 插件无法正常显示，然后项目单独安装 VuePress 依赖后才得以解决。）
+    运行前请确认你的项目已安装 VuePress 依赖，而不是直接使用全局 VuePress 依赖。（作者的项目曾因为直接使用全局 VuePress 依赖，导致 back-to-top 插件无法正常显示，然后项目里单独安装 VuePress 依赖后才得以解决。）
   </span>
 </a-alert>
 

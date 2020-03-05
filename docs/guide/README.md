@@ -15,7 +15,7 @@ sidebarDepth: 0
 
 AntDocs 是一款由 VuePress 驱动并具有 Ant Design 设计风格的主题。  
 ![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) 
-![npm](https://img.shields.io/npm/dm/vuepress-theme-antdocs?style=flat-square&color=red)
+![npm](https://img.shields.io/npm/dt/vuepress-theme-antdocs?style=flat-square&color=red)
 ![GitHub](https://img.shields.io/github/license/zpfz/vuepress-theme-antdocs?style=flat-square&color=blue)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/zpfz/vuepress-theme-antdocs?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/zpfz/vuepress-theme-antdocs?style=social)
@@ -27,7 +27,7 @@ AntDocs 是一款由 VuePress 驱动并具有 Ant Design 设计风格的主题�
 ## 特性
 
 - 搭载了开箱即用的高质量 Ant Design 组件，支持与 Markdown 语法混用。
-- 使用统一的预处理器，兼容 Ant Design 设计规范的 Less 样式。
+- 统一的预处理器，使用 Ant Design 设计规范的 Less 样式。
 - 最大限度优化各种显示以及动画效果。
 
 <p></p>
