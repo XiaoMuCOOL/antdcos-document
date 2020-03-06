@@ -7,7 +7,7 @@ sidebarDepth: 0
 
 以下整理了一些常见的问题和官方答复，在提问之前建议找找有没有类似的问题。
 
-**Q：为什么按照官方配置了主题，仍然运行不了？提示 Cannot find moudle '@SearchBox'？**<a-tag color="#F56C6C">!</a-tag>  
+**Q：为什么按照官方配置了主题，仍然运行不了？提示 Cannot find moudle '@SearchBox'？**<a-tag color="#F56C6C">置顶</a-tag>  
 
 A：该问题的引起可能是由于你的项目没有局部安装 VuePress，直接使用了全局 VuePress 会引起该问题。考虑到用户 VuePress 使用版本不一致以及兼容性，主题默认不再安装 VuePress 依赖，所以使用前请给你的项目安装上 VuePress。（见 [#1](https://github.com/zpfz/vuepress-theme-antdocs/issues/1)）  
 

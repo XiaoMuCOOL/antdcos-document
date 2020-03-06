@@ -15,7 +15,7 @@ sidebarDepth: 0
       <p>
         更新内容：<br/>
         &emsp;- <a-tag color="green">优化</a-tag> 优化移动端侧边栏显示效果；<br/>
-        &emsp;- <a-tag color="green">优化</a-tag> 优化移动端侧搜索和菜单图标显示效果。<br/>
+        &emsp;- <a-tag color="green">优化</a-tag> 优化移动端搜索和菜单图标显示效果。<br/>
       </p>
     </a-timeline-item>
     <a-timeline-item>

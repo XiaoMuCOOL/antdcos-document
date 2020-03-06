@@ -33,7 +33,7 @@ title: Example docs
 
 # Your haedline
 ```
-出现这种问题是由于默认主题与 active-header-links 插件设计上的缺陷，直接修改边距会与 active-header-links 插件滚动定位冲突，所以暂时保留这个问题。
+出现这种问题是由于默认主题与 active-header-links 插件设计上的缺陷，直接修改边距会与 active-header-links 插件滚动定位冲突，所以暂时保留默认设置。
 
 ### 4.不要浪费 VuePress 可直接识别的 README.md 文件。
 我们推荐你在所要导航的每个子目录下创建一个 `README.md` 文件，然后把它当成常规的 `.md` 文件进行写作。这样做的目的是防止用户在访问你的网站时，浏览的页面不会变成 404，这对用户有着极好的浏览体验。  

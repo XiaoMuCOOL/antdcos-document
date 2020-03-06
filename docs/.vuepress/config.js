@@ -8,7 +8,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/assets/logo.png' }],
     // ['link', { rel: 'stylesheet', href: '/css/ad.css' }],
-    ['script', { type: 'text/javascript', src: '/js/push.js' }],
+    ['script', { type: 'text/javascript', src: '/assets/js/push.js' }],
     // ['script', { type: 'text/javascript', src: '/js/ad.js' }],
 
     ['meta', { name: 'referrer', content: 'never' }],

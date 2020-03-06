@@ -1,3 +1,4 @@
+var _hmt = _hmt || [];
 (function(){
   var bp = document.createElement('script');
   var curProtocol = window.location.protocol.split(':')[0];
@@ -9,10 +10,7 @@
   }
   var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(bp, s);
-})();
 
-var _hmt = _hmt || [];
-(function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?d59fbe5e86cf5c5a0929db6d1ec5e9c0";
   var s = document.getElementsByTagName("script")[0]; 
