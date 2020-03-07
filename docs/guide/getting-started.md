@@ -18,6 +18,12 @@ npm i vuepress-theme-antdocs
 ```
 如果你的网络环境不佳，推荐使用 [cnpm](https://github.com/cnpm/cnpm)。
 
+<a-alert type="info" showIcon>
+  <span slot="message">
+    需要指出的是，主题已经内置 active-header-links/last-updated/nprogress/search，所以并不需要在你的项目中安装那些依赖。至于 back-to-top 插件，主题并没安装它，而是采用了 Ant Design Vue 中的组件。
+  </span>
+</a-alert>
+
 ## 引用主题
 
 打开 `.vuepress/config.js` 文件，然后在合适位置引用它：
