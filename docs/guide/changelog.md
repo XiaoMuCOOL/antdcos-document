@@ -9,6 +9,14 @@ sidebarDepth: 0
 
 <template>
   <a-timeline>
+   <a-timeline-item>
+      v0.1.2
+      <a-tag color="#87d068">Beta</a-tag>
+      <p>
+        更新内容：<br/>
+        &emsp;- <a-tag color="purple">修复</a-tag> 修复导航栏菜单在某些情况未能正确激活当前菜单项的问题；<br/>
+      </p>
+    </a-timeline-item>
     <a-timeline-item>
       v0.1.1
       <a-tag color="#87d068">Beta</a-tag>
