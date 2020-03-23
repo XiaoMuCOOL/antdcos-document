@@ -1,17 +1,16 @@
 ---
 title: AntDocs of VuePress
-sidebarDepth: 0
 ---
 
 # AntDocs of VuePress
 
-<a-alert type="info" showIcon>
+<!-- <a-alert type="info" showIcon>
   <span slot="message">
-    目前 <img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-antdocs?style=flat-square"> 为公测版，已开启 建议/BUG 反馈绿色通道：<a href="https://wj.qq.com/s2/5534754/fcad/" target="_blank">点我反馈</a>  |  QQ交流群：867711329
+    QQ交流群：867711329
   </span>
- </a-alert>
+</a-alert> -->
 
-<a-divider dashed />
+<!-- <a-divider dashed /> -->
 
 AntDocs 是一款由 VuePress 驱动并具有 Ant Design 设计风格的主题。  
 ![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) 
@@ -44,13 +43,19 @@ AntDocs 是一款由 VuePress 驱动并具有 Ant Design 设计风格的主题�
 
 - 公测版：<a href="https://www.npmjs.com/package/vuepress-theme-antdocs" target="_blank" style="vertical-align: bottom;"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-antdocs?style=flat-square"></a>
 
+<a-alert type="info" showIcon>
+  <span slot="message">
+    目前 <img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-antdocs?style=flat-square"> 为公测版，我们将以 1.0.0 版本作为正式版本的开端。而 0.x 版本皆为对外公测版本，可能存在一定的 BUG 或者 稳定性 问题，请各位客官耐心等待正式版本的发布~
+  </span>
+</a-alert>
+
 <p></p>
 
 ## 如何贡献
 
-如果你希望参与贡献，欢迎 [Pull Request](https://github.com/zpfz/vuepress-theme-antdocs/pulls)，或给我们 [报告 Bug](https://wj.qq.com/s2/5534754/fcad/) (备注：绿色通道，测试版本时专用链接，正式版发布后，请到 Github 提交 issue)。
+如果你希望参与贡献，欢迎 [Pull Request](https://github.com/zpfz/vuepress-theme-antdocs/pulls)（文档首页上榜你的名字哦），或给我们 [报告 Bug](https://github.com/zpfz/vuepress-theme-antdocs/issues) 。
 
-> 强烈推荐阅读 [《如何有效地报告 Bug》](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html) 和 [《如何向开源项目提交无法解答的问题》](https://zhuanlan.zhihu.com/p/25795393)，更好的问题更容易获得帮助。
+> 强烈推荐阅读 [《如何有效地报告 Bug》](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)，更好的问题更容易获得帮助。
 
 <p></p>
 

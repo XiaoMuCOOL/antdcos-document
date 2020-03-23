@@ -1,6 +1,5 @@
 ---
 title: 常见问题
-sidebarDepth: 0
 ---
 
 # 常见问题

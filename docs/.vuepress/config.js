@@ -7,9 +7,7 @@ module.exports = {
   base: '/',
   head: [
     ['link', { rel: 'icon', href: '/assets/logo.png' }],
-    // ['link', { rel: 'stylesheet', href: '/assets/css/ad.css' }],
     ['script', { type: 'text/javascript', src: '/assets/js/push.js' }],
-    // ['script', { type: 'text/javascript', src: '/assets/js/ad.js' }],
 
     ['meta', { name: 'referrer', content: 'never' }],
     ['meta', { name: 'keywords', content: 'antdocs,antdeisgn,vuepress,vuepress-theme,theme,ant,docs,antd,antdocs of vuepress,主题,vuepress主题,antd设计,blog,vuepress-blog' }]
@@ -22,7 +20,7 @@ module.exports = {
     logo: '/assets/logo.png',
     nav: require('./config/nav'),
     sidebar: require('./config/sidebar'),
-    sidebarDepth: 3,
+    sidebarDepth: 0,
     lastUpdated: '上次更新',
     repo: 'https://github.com/zpfz/vuepress-theme-antdocs',
     editLinks: false

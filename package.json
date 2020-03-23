@@ -7,8 +7,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "bash deploy.sh",
-    "lint": "./node_modules/.bin/eslint --ext .js,.vue ./antdocs"
+    "deploy": "bash deploy.sh"
   },
   "keywords": [
     "theme",

@@ -1,6 +1,5 @@
 ---
 title: 调色板
-sidebarDepth: 0
 ---
 
 # 调色板

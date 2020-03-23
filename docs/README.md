@@ -15,11 +15,14 @@ footerWrap:
 - headline: 生态系统
   items:
   - title: AntDocs
-    link: https://github.com/zpfz/vuepress-theme-antdocs
+    link: https://github.com/zpfz/vuepress-theme-antdocs/
     details: VuePress 主题
   - title: VuePress-Creator
     link: https://zpfz.github.io/vuepress-creator/
     details: VuePress CLI
+  - title: Document
+    link: https://github.com/zpfz/antdcos-document/
+    details: 文档源文件
 - headline: 资源链接
   items:
   - title: VuePress
@@ -29,21 +32,24 @@ footerWrap:
 - headline: 社区交流
   items:
   - title: VuePress 社区
-    link: https://zhuanlan.zhihu.com/press-of-vue
+    link: https://zhuanlan.zhihu.com/press-of-vue/
     details: 知乎专栏
-  - title: AntDocs of VuePress
+  - title: VuePress 社区
     link: https://shang.qq.com/wpa/qunwpa?idkey=fce20f9d7a5620dbb261b31b6bd01f726c9e24e7697fcba4ea7927d5dc971ac5
     details: QQ交流群
+  - title: 入驻申请
+    link: https://wj.qq.com/s2/5692294/796a/
+    details: 插件/脚本/案例
   - title: 报告 Bug
-    link: https://wj.qq.com/s2/5534754/fcad/
-    details: 绿色通道
+    link: https://github.com/zpfz/vuepress-theme-antdocs/issues
+    details: Github issue
 - headline: 作者博客
   items:
   - title: 掘金
-    link: https://juejin.im/user/5d07466b51882554d6312922
+    link: https://juejin.im/user/5d07466b51882554d6312922/
     details: 一个帮助开发者成长的社区
   - title: CSDN
-    link: https://blog.csdn.net/zpfz756
+    link: https://blog.csdn.net/zpfz756/
     details: 专业IT技术社区
 footer: MIT Licensed | Copyright © 2020-present Feng Left-Handed
 ---
@@ -102,3 +108,16 @@ module.exports = {
 <p>&nbsp; </p>  
 
 [我也想为贡献者之一？](https://github.com/zpfz/vuepress-theme-antdocs/pulls)
+
+<p>&nbsp; </p> 
+
+## 赞助者  
+
+<p></p>
+
+<a-tooltip placement="bottom">
+  <template slot="title">
+    Roy Kid
+  </template>
+  <a-avatar src="https://s1.ax1x.com/2020/03/17/8dnGRA.th.jpg" :size="54"/>
+</a-tooltip>

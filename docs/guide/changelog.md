@@ -1,6 +1,5 @@
 ---
 title: 更新日志
-sidebarDepth: 0
 ---
 
 # 更新日志
@@ -9,7 +8,18 @@ sidebarDepth: 0
 
 <template>
   <a-timeline>
-   <a-timeline-item>
+    <a-timeline-item>
+      v1.0.0
+      <a-tag color="#87d068">Beta</a-tag>
+      <p>
+        更新内容：<br/>
+        &emsp;- <a-tag color="orange">新增</a-tag> 添加侧边栏广告位，支持三种显示状态（图片、图文、招待显示）； <br/>
+        &emsp;- <a-tag color="green">新增</a-tag> 新增首页次级按钮，即首页按钮最大支持数为 2 个；<br/>
+        &emsp;- <a-tag color="green">优化</a-tag> 优化返回顶部按钮可自定义开启；<br/>
+        &emsp;- <a-tag color="purple">修复</a-tag> 修复导航栏因 title 过长而显示异常的BUG；<br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
       v0.1.2
       <a-tag color="#87d068">Beta</a-tag>
       <p>

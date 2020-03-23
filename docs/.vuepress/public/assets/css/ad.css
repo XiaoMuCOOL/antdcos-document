@@ -1,9 +1,0 @@
-.ad{
-  margin-bottom: 10px;
-}
-
-@media (max-width: 767px) {
-  .ad{
-    display: none;
-  }
-}

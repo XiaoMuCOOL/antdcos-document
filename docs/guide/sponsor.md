@@ -1,6 +1,5 @@
 ---
 title: 支持我们
-sidebarDepth: 0
 ---
 
 # 赞助 AntDocs of VuePress 的研发

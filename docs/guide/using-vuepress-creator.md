@@ -1,6 +1,5 @@
 ---
 title: 在 VuePress-Creator 中使用
-sidebarDepth: 0
 ---
 
 # 在 VuePress-Creator 中使用

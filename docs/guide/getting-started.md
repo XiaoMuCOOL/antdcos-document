@@ -1,6 +1,5 @@
 ---
 title: 快速上手
-sidebarDepth: 0
 ---
 # 快速上手
 

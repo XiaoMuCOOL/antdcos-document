@@ -1,6 +1,5 @@
 ---
 title: 使用规范
-sidebarDepth: 0
 ---
 
 # 使用规范
